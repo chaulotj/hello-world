@@ -1,2 +1,1 @@
-# hello-world
-A hello world project
+# IGME 235 repo
