@@ -1,37 +1,25 @@
-My game will be a clicker game in which the player clicks a large, central boat button to gain more boats,
-then uses those boats to buy things from a shop, which causes them to gain even more boats, and their boat gain increases exponentially,
-with them earning achievements depending on the number of boats they get.
+# Build-A-Boat Clicker Proposal
+## [Landing Page](index.html) [Game Proposal](proposal.html) [Documentation Page](documentation.html) [Project](project.html)
+# Build-A-Boat
+### It's like every other clicker game in existence...but with boats
 
-Creator: Julien Chaulot
-For class: IGME 235
-Teacher: Andrew Wheeland
+#### Genres
+Incremental Idle Clicker
 
-Build-A-Boat
-It's like every other clicker game in existence...but with boats
+#### Platforms
+Mobile Tablet Computer
 
-Genres
-Incremental
-Idle
-Clicker
+#### Story
+You are a young man/woman with a single dream: To build as many boats as humanly possible. There's only one way to achieve this dream: You must recruit as many boat-builders to help you as possible, (Including the legendary Dr. Cannoli) but their assistance doesn't come cheap. Build boats, recruit boat-builders, earn achievements, and watch your empire grow as your boat count reaches ridiculous heights!
 
-Platforms
-Mobile
-Tablet
-Computer
+#### Aesthetics
+* The graphics will be extremely cartoonish and basic, just a bunch of small sprites.
+* The sound will likely be some ambient looped music, with small beeps and such for clicking on different things.
+* There will also be beeps for clicking on the ship, and a sound effect for getting achievements.
+#### Gameplay
+The only thing you need to worry about is your mouse. Click on the large ship to gain part of a ship. Click on things in the shop (if you have the ships to buy it) to buy that item. Slide the volume sliders to decrease the volume. That's all you have to do. The mechanics of this game are pretty basic.
 
-Story
-You are a young man/woman with a single dream: To build as many boats as humanly possible. There's only one way to achieve this dream:
-You must recruit as many boat-builders to help you as possible, (Including the legendary Dr. Cannoli) but their assistance doesn't come
-cheap. Build boats, recruit boat-builders, earn achievements, and watch your empire grow as your boat count reaches ridiculous heights!
 
-Aesthetics
-The graphics will be extremely cartoonish and basic, just a bunch of small sprites.
-The sound will likely be some ambient looped music, with small beeps and such for clicking on different things.
-There will also be beeps for clicking on the ship, and a sound effect for getting achievements.
-Gameplay
-The only thing you need to worry about is your mouse. Click on the large ship to gain part of a ship. Click on things in the shop
-(if you have the ships to buy it) to buy that item. Slide the volume sliders to decrease the volume. That's all you have to do.
-The mechanics of this game are pretty basic.
 
 About me
 My name is Julien Chaulot, and I am a Sophomore majoring in Game Design and Development, with minors in Computer Science and
